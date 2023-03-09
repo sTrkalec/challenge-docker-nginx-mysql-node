@@ -8,9 +8,18 @@ A lista de nomes cadastrados é gerada através da biblioteca `faker.js`, que ge
 
 ## Executando a aplicação
 
-Para executar a aplicação, você pode utilizar o docker-compose fornecido neste repositório. Basta executar o seguinte comando na raiz do projeto:
+
+Para executar o projeto e criar sua imagem do zero, siga as instruções abaixo:
+
+1. Clone este repositório em sua máquina local: git clone https://github.com/sTrkalec/challenge-docker-nginx-mysql-node.git
 
 
+2. Navegue até o diretório do projeto: 
+
+```javascript
+    cd challenge-docker-2
+```
+3. Para executar a aplicação, você pode utilizar o docker-compose fornecido neste repositório. Basta executar o seguinte comando na raiz do projeto:
 
 ```javascript
     docker-compose up -d
