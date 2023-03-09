@@ -6,11 +6,11 @@ O objetivo é criar uma aplicação que, ao receber uma solicitação do usuári
 
 A lista de nomes cadastrados é gerada através da biblioteca `faker.js`, que gera nomes aleatórios toda vez que a página é atualizada.
 
-## Executando a aplicação
 
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o Docker instalado na sua máquina. Você pode baixar o Docker em [https://www.docker.com/get-started](https://www.docker.com/get-started).
+## Executando a aplicação
 
 Para executar o projeto e criar sua imagem do zero, siga as instruções abaixo:
 
