@@ -8,6 +8,9 @@ A lista de nomes cadastrados é gerada através da biblioteca `faker.js`, que ge
 
 ## Executando a aplicação
 
+## Pré-requisitos
+
+Antes de começar, certifique-se de ter o Docker instalado na sua máquina. Você pode baixar o Docker em [https://www.docker.com/get-started](https://www.docker.com/get-started).
 
 Para executar o projeto e criar sua imagem do zero, siga as instruções abaixo:
 
